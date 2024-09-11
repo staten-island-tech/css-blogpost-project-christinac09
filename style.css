@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+
+body {
+    background-color: rgb(255, 239, 196);
+    text-align: center;
+}
+
+.post {
+    text-align: center;
+    background-color: rgb(255, 199, 77);
+    margin:10 auto;
+    padding: 10px;
+    width: 400;
+    height: 300;
+}
+.post-header {}
+.post-desc {}
+.post-img {}
+.post-link {}
