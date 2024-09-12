@@ -1,13 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
 
 body {
-    background-color: rgb(255, 239, 196);
+    background-color: rgb(200, 178, 130);
     text-align: center;
 }
-
+h1 {
+    margin: 50px;
+}
+.posts-area {
+    background-color: rgb(208, 197, 154);
+    margin: 10px;
+    padding: 15px;
+}
 .post {
     text-align: center;
-    background-color: rgb(255, 199, 77);
+    background-color: rgb(166, 123, 92);
     margin:10 auto;
     padding: 10px;
     width: 400;
