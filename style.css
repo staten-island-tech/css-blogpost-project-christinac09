@@ -1,12 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&family=Sofadi+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Playpen+Sans:wght@100..800&family=Sofadi+One&display=swap');
 
 body {
     background-color: rgb(200, 178, 130);
     text-align: center;
-    font-family: "SUSE", sans-serif;
+    font-family: "Playpen Sans", cursive;
 }
 h1 {
     margin: 50px;
+    font-family: ;
 }
 .posts-area {
     background-color: rgb(208, 197, 154);
