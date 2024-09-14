@@ -2,28 +2,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Playpen+Sans:wght@100..800&family=Sofadi+One&display=swap');
 
 body {
-    background-color: rgb(200, 178, 130);
+    background-image: linear-gradient(rgb(253, 193, 177,0.4),rgb(253, 193, 177)), url("img/shadow-studio.jpg");
+    background-size: 15%;
+    /* background-color: #fdc1b1; */
     text-align: center;
     font-family: "Playpen Sans", cursive;
 }
 h1 {
-    margin: 50px;
-    font-family: ;
+    margin: 70px;
+    font-family: "Kaushan Script", cursive;
+    font-size: 100px;
+    color: #748891;
 }
 .posts-area {
-    background-color: rgb(208, 197, 154);
+    background-color: #ffd7c8;
     margin: 10px;
     padding: 15px;
 }
 .post {
     text-align: center;
-    background-color: rgb(166, 123, 92);
-    margin:10 auto;
+    background-color: #f6a395;
+    margin: 20 auto;
     padding: 10px;
     width: 400;
     height: 300;
+    border: 5px solid #93a5ac;
+    border-radius: 30px;
 }
-.post-header {}
+.post-header {
+    font-size: ;
+    margin: ;
+}
 .post-desc {}
 .post-img {}
 .post-link {}
