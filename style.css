@@ -7,36 +7,44 @@ body {
     /* background-color: #fdc1b1; */
     text-align: center;
     font-family: "Playpen Sans", cursive;
+    color: #62747c;
 }
 h1 {
     margin: 70px;
     font-family: "Kaushan Script", cursive;
     font-size: 100px;
-    color: #748891;
+    color: #526168;
 }
-.posts-area {
+.posts-container {
     background-color: #ffd7c8;
     margin: 10px;
     padding: 15px;
 }
 .post {
-    text-align: center;
     background-color: #f6a395;
     margin: 50 auto;
     padding: 2px;
     width: 40%;
-    height: 350px;
+    height: 410px;
     border: 5px solid #93a5ac;
     border-radius: 30px;
 }
-.post-header {
-    font-size: 150px;
-    margin: 0px;
+.post-heading {
+    font-size: 23px;
+    margin: 4px;
 }
-.post-desc {}
+.post-text {
+    font-size: 15px;
+    margin: 5px;
+}
 .post-img {
-    width: 70%;
-    height: 70%;
+    width: 80%;
+    height: 60%;
     object-fit: cover;
+    margin: 0;
+    border: 2px solid #93a5ac;
+    border-radius: 15px;
 }
-.post-link {}
+.post-link {
+    font-size: 15px;
+}
